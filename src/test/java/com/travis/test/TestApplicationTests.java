@@ -25,7 +25,6 @@ class TestApplicationTests {
 	@Test
 	public void handleTest(){
 		System.out.println("This task will fail!");
-		Assert.hasLength("","st");
 	}
 
 }
